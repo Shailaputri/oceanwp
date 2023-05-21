@@ -2,24 +2,25 @@
 
 # My portfolio website developed using Wordpress CMS
 
-** Features:** Here are some features I used:-
+**Features:** Here are some features I used:-
 =======
-** Header section :**
+**Header Section:**
 Static Header (Transparent)
 Hover effect for buttons
 Pop-up to enable user to contact me
+![alt text](Screenshot 2023-05-21 at 11.12.11 PM)
 
 
-** About Me **
+**About Me Section:**
 Attractive About Me section
 Progress bar for skills
 Gradient colors (adjusted for mobile view)
 
-** What I can do section **
+**What I can Do Section:**
 Has icons for visual clarity
 Arranged under columns
 
-** Call to Action Section **
+**Call to action Section:**
 Pop Up
 Background Image with Overlay
 
