@@ -8,21 +8,27 @@
 Static Header (Transparent).   
 Hover effect for buttons.         
 Pop-up to enable user to contact me.    
-![](Screenshot 2023-05-21 at 11.12.11 PM)
+![alt_text](/Users/poojasharma/Downloads/Development/WPPortfolioWebsite/Attachments/Top.png){width="600" height="300"}
 
 
 **About Me Section:**.    
 Attractive About Me section.   
 Progress bar for skills.   
-Gradient colors (adjusted for mobile view).   
+Gradient colors (adjusted for mobile view).    
+![alt_text](/Users/poojasharma/Downloads/Development/WPPortfolioWebsite/Attachments/AboutMe.png){width="600" height="300"}
+
 
 **What I can Do Section:**.  
 Has icons for visual clarity.    
-Arranged under columns.   
+Arranged under columns. 
+![alt_text](/Users/poojasharma/Downloads/Development/WPPortfolioWebsite/Attachments/Mywork.png){width="600" height="300"}
+
+
 
 **Call to action Section:**.   
 Pop Up.  
-Background Image with Overlay.    
+Background Image with Overlay.  
+![alt_text](/Users/poojasharma/Downloads/Development/WPPortfolioWebsite/Attachments/CTA.png){width="600" height="300"}  
 
       
 
