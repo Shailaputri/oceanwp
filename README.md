@@ -8,24 +8,24 @@
 Static Header (Transparent).   
 Hover effect for buttons.         
 Pop-up to enable user to contact me. &nbsp;     
-![Alt text](Attachments/Top.png?raw=true)&nbsp; 
+![Alt text](AttachmentsNew/Top.png?raw=true)&nbsp; 
 &nbsp; 
 
-![Alt text](Attachments/PopUp.png?raw=true)&nbsp;      
+![Alt text](AttachmentsNew/PopUp.png?raw=true)&nbsp;      
 
 &nbsp;  
 **About Me Section:**.    
 Attractive About Me section.   
 Progress bar for skills.   
 Gradient colors (adjusted for mobile view). &nbsp;     
-![Alt text](Attachments/AboutMe.png?raw=true)   &nbsp;     
+![Alt text](AttachmentsNew/AboutMe.png?raw=true)   &nbsp;     
 &nbsp;    
 
 
 **What I can Do Section:**.  
 Has icons for visual clarity.    
 Arranged under columns  &nbsp;                
-![Alt text](Attachments/Mywork.png?raw=true)   &nbsp;   
+![Alt text](AttachmentsNew/Mywork.png?raw=true)   &nbsp;   
 &nbsp;    
 
 
@@ -33,7 +33,7 @@ Arranged under columns  &nbsp;
 **Call to action Section:**.   
 Pop Up.  
 Background Image with Overlay.  &nbsp;  
-![Alt text](Attachments/CTA.png?raw=true)&nbsp;  
+![Alt text](AttachmentsNew/CTA.png?raw=true)&nbsp;  
 &nbsp;   
 
       
