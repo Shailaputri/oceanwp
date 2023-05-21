@@ -4,27 +4,27 @@
 
 **Features:** Here are some features I used:-
 =======
-**Header Section:**
-Static Header (Transparent)
-Hover effect for buttons
-Pop-up to enable user to contact me
-![alt text](Screenshot 2023-05-21 at 11.12.11 PM)
+**Header Section:**.   
+Static Header (Transparent).   
+Hover effect for buttons.         
+Pop-up to enable user to contact me.    
+![](Screenshot 2023-05-21 at 11.12.11 PM)
 
 
-**About Me Section:**
-Attractive About Me section
-Progress bar for skills
-Gradient colors (adjusted for mobile view)
+**About Me Section:**.    
+Attractive About Me section.   
+Progress bar for skills.   
+Gradient colors (adjusted for mobile view).   
 
-**What I can Do Section:**
-Has icons for visual clarity
-Arranged under columns
+**What I can Do Section:**.  
+Has icons for visual clarity.    
+Arranged under columns.   
 
-**Call to action Section:**
-Pop Up
-Background Image with Overlay
+**Call to action Section:**.   
+Pop Up.  
+Background Image with Overlay.    
 
-
+      
 
 
 ## OceanWP
