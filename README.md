@@ -1,4 +1,32 @@
-# OceanWP
+
+
+# My portfolio website developed using Wordpress CMS
+
+** Features:** Here are some features I used:-
+=======
+** Header section :**
+Static Header (Transparent)
+Hover effect for buttons
+Pop-up to enable user to contact me
+
+
+** About Me **
+Attractive About Me section
+Progress bar for skills
+Gradient colors (adjusted for mobile view)
+
+** What I can do section **
+Has icons for visual clarity
+Arranged under columns
+
+** Call to Action Section **
+Pop Up
+Background Image with Overlay
+
+
+
+
+## OceanWP
 
 **Contributors:** The OceanWP Team
 **Requires at least:** WordPress 5.6
