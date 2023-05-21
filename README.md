@@ -8,7 +8,10 @@
 Static Header (Transparent).   
 Hover effect for buttons.         
 Pop-up to enable user to contact me. &nbsp;     
-![Alt text](Attachments/Top.png?raw=true)&nbsp;      
+![Alt text](Attachments/Top.png?raw=true)&nbsp; 
+&nbsp; 
+
+![Alt text](Attachments/PopUp.png?raw=true)&nbsp;      
 
 &nbsp;  
 **About Me Section:**.    
